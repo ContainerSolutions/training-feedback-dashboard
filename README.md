@@ -16,3 +16,11 @@ npm install
 ```
 DEBUG=frontend:* npm start
 ```
+
+# Testing
+
+## Frontend
+
+```
+npm test
+```
