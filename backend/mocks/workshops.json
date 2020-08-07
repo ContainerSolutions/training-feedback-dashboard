@@ -1,0 +1,20 @@
+[
+    {
+        "delivery_date": "2020-02-10",
+        "title": "Kubernetes Essentials",
+        "trainer": "Lajos Papp",
+        "participant_nps": 50
+    },
+    {
+        "delivery_date": "2020-03-11",
+        "title": "Kubernetes Essentials",
+        "trainer": "Lajos Papp",
+        "participant_nps": 84
+    },
+    {
+        "delivery_date": "2020-03-25",
+        "title": "Container Essentials",
+        "trainer": "Nigel Brown",
+        "participant_nps": 21
+    }        
+]
