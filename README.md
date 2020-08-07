@@ -1,4 +1,18 @@
 # training-feedback-dashboard
 Cloud Native app from scratch
-Hi Ben :)
-Hey Russ
+
+# Installing
+
+## Frontend
+
+```
+npm install
+```
+
+# Running
+
+## Frontend
+
+```
+DEBUG=frontend:* npm start
+```
