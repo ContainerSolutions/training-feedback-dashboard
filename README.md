@@ -9,6 +9,12 @@ Cloud Native app from scratch
 npm install
 ```
 
+## Backend
+
+```
+npm install
+```
+
 # Running
 
 ## Frontend
@@ -17,9 +23,21 @@ npm install
 DEBUG=frontend:* npm start
 ```
 
+## Backend
+
+```
+DEBUG=frontend:* npm start
+```
+
 # Testing
 
 ## Frontend
+
+```
+npm test
+```
+
+## Backend
 
 ```
 npm test
